@@ -35,8 +35,8 @@ public class Calculator {
 
         // Check for square root of negative number before outputting square root
         if (num1 >= 0 && num2>=0)
-        {System.out.println("Square Root of " + num1 + " : " + squareRootNum1);
-         System.out.println("Square root of " + num2 + " : "  +squareRootNum2);
+        {System.out.println("Square Root of " + num1 + " : " +squareRootNum1);
+         System.out.println("Square root of " + num2 + " : " +squareRootNum2);
 
         } else {
             System.out.println("Cannot calculate square root of a negative number.");
