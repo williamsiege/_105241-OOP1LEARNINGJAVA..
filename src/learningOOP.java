@@ -1,4 +1,4 @@
-import com.objects.firstClass;
+import com.homework.firstClass;
 import java.util.Scanner;
 public class learningOOP {
 public static void main(String[] args){

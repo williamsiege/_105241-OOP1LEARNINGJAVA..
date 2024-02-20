@@ -1,4 +1,4 @@
-package com.objects;
+package com.homework;
 // Creating a Class to handle account information.BBIT.
 public class firstClass {
     //Creating attributes to describe the class/ Object to be created from different views.
