@@ -1,9 +1,9 @@
 package com.homework;
 public interface calculationInter {
 
-public float getArea();
+float getArea();
 
-public float getPerimeter();
+float getPerimeter();
 
-public void showDetails();
+void showDetails();
 }
