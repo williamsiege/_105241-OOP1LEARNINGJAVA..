@@ -6,7 +6,7 @@ public class MainRectangle {
         calculationInter Rect1 = new Rectangle(14,25);
         Rect1.showDetails();
 
-        System.out.println("Break ////................///");
+        System.out.println("\nBreak ////................///\n");
 
         Rectangle Rect2 = new Rectangle();
         Rect2.setLength(10);
