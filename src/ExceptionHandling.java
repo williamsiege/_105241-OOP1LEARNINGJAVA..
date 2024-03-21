@@ -28,13 +28,13 @@ public static void main(String[] args) {
         System.err.println("Error: File not found.");
     } catch (IllegalArgumentException e) {
         // Handle negative number exception
-        System.err.println("Error: " + e.getMessage());
+        System.err.println("Error:" + e.getMessage());
     } catch (ArithmeticException e) {
         // Handle arithmetic exception (e.g., square root of negative number)
         System.err.println("Error: ArithmeticException - " + e.getMessage());
     } catch (Exception e) {
         // Handle any other exceptions
-        System.err.println("Error: " + e.getMessage());
+        System.err.println("Error: More Numbers in the file ...." + e.getMessage());
     }
 }
 
